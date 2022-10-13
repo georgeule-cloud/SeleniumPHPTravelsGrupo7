@@ -52,7 +52,7 @@ Una vez tenemos esto listo, nuestro ambiente de Selenium estará instalado corre
 
 Para lo siguiente estaremos creando un archivo con el nombre “test.py”.
 Y escribiremos el siguiente codigo para probar el funcionamiento.
-`from selenium import webdriver \n driver = webdriver.Chrome() \n driver.get("https://phptravels.com/demo")`
+`from selenium import webdriver <br> driver = webdriver.Chrome() \n driver.get("https://phptravels.com/demo")`
 
 Luego, abrimos una terminal de CMD, y ejecutamos el comando:
 `python test.py`
