@@ -2,9 +2,9 @@
 Repositorio del Grupo 7, que contiene el webdriver de chrome, asi como archivos de python para realizar distintas pruebas
 Instalación de Selenium Web driver en MacOS.
 
-#MacOS
+# MacOS
 
-##Requisitos
+## Requisitos
 
 Primero, debemos instalar Python3.
 Para iniciar la instalación de Python3, debemos de instalar un administrador de paquetes utilizado en MacOS el cual se llama Brew. Para instalarlo debemos de abrir una terminal o consola en nuestra computadora.
@@ -13,7 +13,7 @@ Seguido a esto debemos ejecutar el siguiente comando, el cual descargara e insta
 Una vez tengamos instalado Brew, procederemos a ejecutar el siguiente comando, el cual instalara Python3.
 `brew install python3`
 
-##Instalación de Selenium
+## Instalación de Selenium
 
 Una vez tengamos instalados los requisitos, deberemos descargar Selenium mediante el siguiente comando:
 `curl https://files.pythonhosted.org/packages/ed/9c/9030520bf6ff0b4c98988448a93c04fcbd5b13cd9520074d8ed53569ccfe/selenium-3.141.0.tar.gz > selenium.tar.gz`
@@ -28,9 +28,9 @@ Para comprobarlo, solo basta con abrir una terminal de Python, lo cual se hace c
 
 En el caso de una instalación correcta, no deberíamos de tener ningún mensaje de error. 
 
-#Instalación de Selenium Web driver en Windows
+# Instalación de Selenium Web driver en Windows
 
-##Requisitos
+## Requisitos
 Para Windows, debemos de tener instalado Python3, en el caso de no tenerlo, existen varias maneras de instalarlo, ya sea desde la página principal de Python3 o Mediante el Store de Microsoft, etc.…
 En este caso utilizaremos el Store de Microsoft.
  
