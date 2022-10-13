@@ -55,7 +55,9 @@ Y escribiremos el siguiente codigo para probar el funcionamiento.
 -Inicio codigo-
 
 from selenium import webdriver
+<br>
 driver = webdriver.Chrome()
+<br>
 driver.get("https://phptravels.com/demo")
 
 -Final codigo-
